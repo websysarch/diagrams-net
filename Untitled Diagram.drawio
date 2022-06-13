@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T14:46:44.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" version="20.0.1" etag="LvNHhWqXajpgNHXeudzJ" type="github"><diagram id="8giMrbeD1dL1-lUjsYZn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-13T14:52:24.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.39" etag="E_3GgqZLLAz_ZZnU158B" version="20.0.1" type="github">
+  <diagram id="8giMrbeD1dL1-lUjsYZn" name="Page-1">
+    <mxGraphModel dx="780" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="znlIG_DYImmRYI6TJZtw-2" value="" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="znlIG_DYImmRYI6TJZtw-3" value="Server" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="znlIG_DYImmRYI6TJZtw-4" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="znlIG_DYImmRYI6TJZtw-5" value="DB" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="610" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="znlIG_DYImmRYI6TJZtw-7" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Cache_Redis.svg;" vertex="1" parent="1">
+          <mxGeometry x="478" y="460" width="64" height="52" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
